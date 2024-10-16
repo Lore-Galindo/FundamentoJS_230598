@@ -12,7 +12,7 @@ Previo a iniciar el desarrollo de software para web usando el framework de NodeJ
 |1.|Metodología de Evaluación|1|✔Finalizado|
 |2.|Inicialización del Proyecto de Fundamentos de JS|5|✔Finalizado|
 |3.|Ejercicio 01: Declaracion de Variables en JS (Undefined/Boolean/Number/String)|10|✔Finalizado|
-|4.|Ejercicio 02: Declaracion de Variables en JS (BigInt/Symbol/Null/Functio)|6|✔Finalizado|
+|4.|Ejercicio 02: Declaracion de Variables en JS (BigInt/Symbol/Null/Function)|6|✔Finalizado|
 |5.|Ejercicio 03: Repaso de Objetos|19|✔Finalizada|
 |6.|Ejercicio 04:Repaso de Arreglos|18|✔Finalizada|
 |6.|Ejercicio 05:Repaso de ciclos y de sentencias de control|16|✔Finalizada|

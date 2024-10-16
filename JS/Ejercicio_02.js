@@ -224,7 +224,7 @@ let fecha_UltimoPost;
 //Supongamos que estamos programando una racha Social,tipo facebook,en la que parte de la informacionse publicara en el perfil del usuario
 //si el usuario no ha iniciado sesion en el dispositivo movil o en la aplicacion web,puede explorar contenido de acceso publico.y no existira informacion para mostrar
 //en la HU (Historia de usuario),que el usurio deswea lograrse debera ingresar su numbero telefonico o correo electronico y una contraseña que deberemos guardar en las variables previamente declaradas 
-//Supongamos que el usuario:Lorena Galindo con correo electronico lorena01galindo@.gmail.com DESEA INGRESAR CON SU CONTRASEÑA :pass123
+//Supongams que el usuario:Lorena Galindo con correo electronico lorena01galindo@.gmail.com DESEA INGRESAR CON SU CONTRASEÑA :pass123
 
 nombreUsuario = "Lorena.galindo@gmail.com";
 passUsuario = "pass123";
